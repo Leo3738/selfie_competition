@@ -26,12 +26,12 @@ Current Overall Structure: 6 *Activities*, 4 *Fragments* and 8 *Models*.
 
 **GUI Design:**
 
-I followed an Agile approach with sprints of 1-week long each. I have 3 users and in every iteration I get their feedback and reviews, so I change the design accordingly.<br>
-I concentrated on the colors that are used in the app to make it visually more appealing. Also, I left an option for the user to change the Theme(colors) of the app in the *Settings*.<br>
-Added to that, I used in my design a *Navigation Drawer* to allow users to easily navigate to different parts of the application without having to go through a set of activities.<br>
-Generally speaking, the main Ux guidelines reference I followed is the *"User Interface Guidelines"* published on the official Android website.<br>
+I followed an Agile approach with sprints of 1-week long each. I have 3 users and in every iteration I get their feedback and change the design accordingly.<br>
+I concentrated on colors that make the app visually more appealing. I left an option for the user to change the Theme(colors) of the app in the *Settings*.<br>
+I used in my design a *Navigation Drawer* to allow users to easily navigate to different parts of the application without having to go through a set of activities.<br>
+the main Ux guidelines reference I followed is the *"User Interface Guidelines"* published on the official Android website.<br>
 The design is inituitive and all the edits/changes/updates happen on a single page.<br>
-When the procedure requires a `lock`, a `ProgressBar` will popup on the top of everything in order not to ruin/interrupt the current operation. However, when it's possible, the procedure is done asynchronously. 
+When the procedure requires a `lock`, a `ProgressBar` will popup on the top of everything in order not to ruin/interrupt the current operation. When it's possible, the procedure is done asynchronously. 
 
 
 
